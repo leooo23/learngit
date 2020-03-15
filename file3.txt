@@ -1,1 +1,2 @@
 here we check the git cmd again.
+check cmd 'diff'.
